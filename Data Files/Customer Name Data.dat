@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>1257f908-a92b-489a-80f4-a50ddac8fb15</dataFileGUID>
-   <dataSourceUrl>C:\Users\HP\Desktop\data.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\ASUS\git\DemoGuru99-KatalonStudio\data.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <properties>
